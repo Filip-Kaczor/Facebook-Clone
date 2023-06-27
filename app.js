@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    var root = "/facebook";
+    var root = "/Facebook-Clone";
     var previousPath = getCurrentPath();
     var mainLeftLoaded = false;
     var scrollPositions = {}; // Object to store scroll positions
@@ -156,7 +156,7 @@ $(document).ready(function() {
 
     // Get the current path from the URL
     function getCurrentPath() {
-        var path = location.pathname.replace("/facebook", ''); // replace optional
+        var path = location.pathname.replace("/Facebook-Clone", ''); // replace optional
         return path;
     }
 
