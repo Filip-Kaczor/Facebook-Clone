@@ -30,8 +30,7 @@
   }
 
   //CONFIG VARIABLE
-  $indexUrl = "http://localhost/facebook/";
+  $indexUrl = "http://localhost/Facebook-Clone/";
   $_SESSION["indexUrl"] = $indexUrl;
-  $_SESSION["indexUrl2"] = "/facebook/";
   
 ?>
