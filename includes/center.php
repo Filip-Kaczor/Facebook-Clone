@@ -1,0 +1,1 @@
+<div id="mainCenter" class='main'></div>
